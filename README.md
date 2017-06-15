@@ -1,3 +1,4 @@
+https://stackoverflow.com/questions/6210757/java-lang-classnotfoundexception-org-springframework-web-context-contextloaderl
 # SpringSecurity_Rest
 Security added based on JAX-RS simple example
 
